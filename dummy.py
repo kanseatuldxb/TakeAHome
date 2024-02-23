@@ -1,6 +1,6 @@
 import requests
 
-# Replace this with the actual URL
+# Replace this with the actual URLdddd
 url = 'http://192.168.1.43:8000/home/areas/'
 
 data_list = [
